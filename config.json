@@ -15,7 +15,7 @@
   {
     "path": "test.txt",
     "hash": "115115515151515151151",
-    "url": "https://raw.githubusercontent.com/ChamoyZ/Repo/main/test.txt", 
+    "url": "https://raw.githubusercontent.com/ChamoyZ/ConfigAPISAMP/refs/heads/main/test.txt", 
     "size": 10
   }
 ],
@@ -24,4 +24,5 @@
   ]
 
 }
+
 
