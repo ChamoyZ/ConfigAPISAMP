@@ -5,7 +5,7 @@
   "news": {
     "banner_title": "Season 2 Update!",
     "banner_desc": "เพิ่มระบบใหม่ ล่าท้าผี",
-    "video_url": "https://www.youtube.com/embed/31kplxJn6nw?autoplay=1&mute=1&controls=0&loop=1&playlist=31kplxJn6nw"
+    "video_url": "https://www.youtube.com/embed/31kplxJn6nw?autoplay=1&mute=1&controls=0&loop=1"
   },
   "servers": [
     { "name": "ChamoyZCity (Roleplay)", "ip": "127.0.0.1", "port": 7777 },
@@ -24,6 +24,7 @@
   ]
 
 }
+
 
 
 
