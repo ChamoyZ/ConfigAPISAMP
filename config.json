@@ -1,39 +1,41 @@
 {
-  "launcher_version": "1.0.2",
-  "launcher_download_url": "https://myserver.com/launcher/setup.exe",
-  "maintenance_mode": false,
-  "news": {
-    "banner_title": "Season 2 Update!",
-    "banner_desc": "เพิ่มระบบใหม่ ล่าท้าผี",
-    "video_url": "https://www.youtube.com/embed/31kplxJn6nw?autoplay=1&mute=1&controls=0&loop=1"
-  },
-  "ui": {
-    "banner_url": "https://media.discordapp.net/attachments/1440552889046012014/1440552889406980228/1.png?ex=6950abed&is=694f5a6d&hm=67a1911fe35ac839bfb84ccca0de603c23795b8c650fd06d2115b66ced02833a&=&format=webp&quality=lossless",
-    "avatar_url": "https://media.discordapp.net/attachments/1424686063028408370/1424686063737241630/d6222dfa951ec783.png?ex=69504c0a&is=694efa8a&hm=fde204006c7913c9c192de98cb07c90e42aec1c7ec3a64fe6277d1d4215a2b9d&=&format=webp&quality=lossless&width=648&height=648"
-  },
-  "servers": [
-    { "name": "ChamoyZCity (Roleplay)", "ip": "127.0.0.1", "port": 7777 },
-    { "name": "GumpunCity (DM)", "ip": "127.0.0.1", "port": 7778 }
-  ],
-  "files": [
-  {
-    "path": "test.txt",
-    "hash": "115115515151515151151",
-    "url": "https://raw.githubusercontent.com/ChamoyZ/ConfigAPISAMP/main/test.txt", 
-    "size": 10
-  }
-],
-  "enb_files": [
-    { "path": "d3d9.dll", "hash": "MD5_HASH_HERE", "url": "https://.../d3d9.dll" }
-  ]
-
+    "launcher_version": "1.0.2",
+    "launcher_download_url": "https://myserver.com/launcher/setup.exe",
+    "maintenance_mode": false,
+    "news": {
+        "banner_title": "Season 2 Update!",
+        "banner_desc": "เพิ่มระบบใหม่ ล่าท้าผี",
+        "video_url": "https://www.youtube.com/embed/31kplxJn6nw?autoplay=1&mute=1&controls=0&loop=1"
+    },
+    "ui": {
+        "banner_url": "https://media.discordapp.net/attachments/1440552889046012014/1440552889406980228/1.png?ex=6950abed&is=694f5a6d&hm=67a1911fe35ac839bfb84ccca0de603c23795b8c650fd06d2115b66ced02833a&=&format=webp&quality=lossless",
+        "avatar_url": "https://media.discordapp.net/attachments/1424686063028408370/1424686063737241630/d6222dfa951ec783.png?ex=69504c0a&is=694efa8a&hm=fde204006c7913c9c192de98cb07c90e42aec1c7ec3a64fe6277d1d4215a2b9d&=&format=webp&quality=lossless&width=648&height=648"
+    },
+    "servers": [
+        {
+            "name": "ChamoyZCity (Roleplay)",
+            "ip": "127.0.0.1",
+            "port": 7777
+        },
+        {
+            "name": "GumpunCity (DM)",
+            "ip": "127.0.0.1",
+            "port": 7778
+        }
+    ],
+    "files": [
+        {
+            "path": "test.txt",
+            "hash": "115115515151515151151",
+            "url": "https://raw.githubusercontent.com/ChamoyZ/ConfigAPISAMP/main/test.txt",
+            "size": 10
+        }
+    ],
+    "enb_files": [
+        {
+            "path": "d3d9.dll",
+            "hash": "MD5_HASH_HERE",
+            "url": "https://.../d3d9.dll"
+        }
+    ]
 }
-
-
-
-
-
-
-
-
-
