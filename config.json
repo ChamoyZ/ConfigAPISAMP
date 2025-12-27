@@ -1,6 +1,6 @@
 {
-    "launcher_version": "1.0.2",
-    "launcher_download_url": "https://myserver.com/launcher/setup.exe",
+    "launcher_version": "1.0.3",
+    "launcher_download_url": "https://raw.githubusercontent.com/ChamoyZ/ConfigAPISAMP/main/ChamoyZUpdater.exe",
     "maintenance_mode": false,
     "news": {
         "banner_title": "Season 2 Update!",
@@ -39,3 +39,4 @@
         }
     ]
 }
+
