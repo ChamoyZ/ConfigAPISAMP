@@ -5,17 +5,22 @@
   "news": {
     "banner_title": "Season 2 Update!",
     "banner_desc": "เพิ่มระบบใหม่ ล่าท้าผี",
-    "video_url": "https://www.youtube.com/embed/VIDEO_ID"
+    "video_url": "https://www.youtube.com/embed/31kplxJn6nw?rel=0"
   },
   "servers": [
     { "name": "ChamoyZCity (Roleplay)", "ip": "127.0.0.1", "port": 7777 },
     { "name": "GumpunCity (DM)", "ip": "127.0.0.1", "port": 7778 }
   ],
   "files": [
-    { "path": "models/gta3.img", "hash": "MD5_HASH_HERE", "url": "https://.../gta3.img", "size": 102400 },
-    { "path": "samp.dll", "hash": "MD5_HASH_HERE", "url": "https://.../samp.dll", "size": 500 }
-  ],
+  {
+    "path": "test.txt",
+    "hash": "115115515151515151151",
+    "url": "https://raw.githubusercontent.com/ChamoyZ/Repo/main/test.txt", 
+    "size": 10
+  }
+],
   "enb_files": [
     { "path": "d3d9.dll", "hash": "MD5_HASH_HERE", "url": "https://.../d3d9.dll" }
   ]
+
 }
